@@ -67,3 +67,12 @@ footer {
     color: #FFF;
     font-size: 13px;
 }
+
+footer a {
+    color: #eca841;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration:underline;
+}
