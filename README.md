@@ -1,2 +1,3 @@
 # musical-drum-simulator
- Musical Drum Simulator created in the JAVASCRIPT Course at B7Web.
+* Objective: work with methods for reading events and playing sounds with javascript.
+* Technologies used: HTML5, CSS3 and JavaScript.
